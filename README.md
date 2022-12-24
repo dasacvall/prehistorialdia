@@ -1,2 +1,2 @@
 # prehistorialdia
-Paleolithic Project (own articles and maps)
+Alojamiento web del Blog 'Prehistoria al Día' (Proyecto Paleolítico).
